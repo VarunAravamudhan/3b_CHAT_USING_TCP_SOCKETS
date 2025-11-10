@@ -34,7 +34,9 @@ while True:
 ## OUPUT
 ### Server
 <img width="1275" height="272" alt="image" src="https://github.com/user-attachments/assets/ca3478a0-4907-4b2f-a2f9-beb66eea6121" />
+
 ### Client
+
 <img width="1168" height="249" alt="image" src="https://github.com/user-attachments/assets/eb20dbfd-7e13-41eb-bf79-3e9e307e7e35" />
 
 
