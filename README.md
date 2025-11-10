@@ -9,7 +9,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ### Server
-~~~import socket
+~~~
+import socket
 s=socket.socket()
 s.bind(('localhost',8000))
 s.listen(5)
